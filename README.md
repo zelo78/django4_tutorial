@@ -3,11 +3,11 @@
 
 Учебное пособие выполнено в целях знакомства с Django, получения законченного проекта в порфолио для поиска работы.
 
-##Использованные библиотеки
+## Использованные библиотеки
 
 - [Django](https://www.djangoproject.com/) v. 4.0.2
 - [python-dotenv](https://pypi.org/project/python-dotenv/) v. 0.19.2 - Считывает пары ключ-значение из файла .env и может устанавливать их в качестве переменных среды
 
-##Использованные технолоии и программы
+## Использованные технологии и программы
 
 - Git, [GitHub](https://github.com/zelo78/django4_tutorial), [GitHub flow](https://docs.github.com/en/get-started/quickstart/github-flow)
