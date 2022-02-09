@@ -1,7 +1,7 @@
 # Django 4 Tutorial
 [Tutorial](https://docs.djangoproject.com/en/4.0/intro/) for version 4 from [Django Official Website](https://www.djangoproject.com/)
 
-Учебное пособие выполнено в целях знакомства с Django, получения законченного проекта в порфолио для поиска работы.
+Учебное пособие выполнено в целях знакомства с Django, и получения законченного проекта для резюме.
 
 ## Использованные библиотеки
 
